@@ -1,4 +1,4 @@
-### ObsidianSync
+## ObsidianSync
 
 A two-way synchronization plugin for Obsidian that uses the UploadG API to sync your vault with cloud storage without requiring a self-hosted server.
 
