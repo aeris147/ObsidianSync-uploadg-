@@ -1,0 +1,9 @@
+{
+  "id": "uploadg-sync",
+  "name": "UploadG Sync",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Two-way sync of your vault with UploadG by modified time. Deleted notes are moved to a cloud bak folder; local files are never deleted by the plugin.",
+  "author": "You",
+  "isDesktopOnly": false
+}
